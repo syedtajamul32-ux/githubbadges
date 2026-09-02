@@ -1,2 +1,3 @@
 Learning AI and web development
-Building new projects
+Building new projects 
+Learning something new everyday
